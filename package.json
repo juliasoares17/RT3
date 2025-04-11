@@ -1,0 +1,23 @@
+{
+  "name": "rt3",
+  "version": "1.0.0",
+  "description": "terceira atividade para revisao de typescript, passada pelo professor gerson da pinha neto",
+  "homepage": "https://github.com/juliasoares17/RT3#readme",
+  "bugs": {
+    "url": "https://github.com/juliasoares17/RT3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliasoares17/RT3.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "modulo-rt3": "github:juliasoares17/modulo-RT3"
+  }
+}
